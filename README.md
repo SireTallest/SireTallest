@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning more about software development, database management and some web languages like C++ and C#.<br>I am looking forward to collaborating on any project relating to any of the fields I am currently learning more about.<br>I am looking for help with internship in frontend development by working more on real-life projects.<br>You can connect with me via abdoladepo@gmail.com<br>
+I am learning more about proDev(Frontend) where I use frameworks like typescript, nodeJs, tailwind CSS, and reactJs. Other areas I am interested in are database management and some web languages like C++ and C#.<br>I am looking forward to collaborating on any project relating to any of the fields I am currently learning more about.<br>I am looking for help with an internship in frontend development by working more on real-life projects.<br>You can connect with me via abdoladepo@gmail.com<br>
 
 
 ## 🌐 Socials:
