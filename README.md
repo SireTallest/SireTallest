@@ -1,15 +1,12 @@
 # 💫 About Me:
-Hi, I’m Oladepo Abdulbaki Opeyemi. A software engineering graduate 
-                with hands-on experience in full-stack development and a 
-                passion for using technology to solve 
-                real-world infrastructure challenges. Currently 
-                expanding my skills through ALX’s advanced frontend and backend engineering program.
-                I am a passionate software engineer with a
-                strong background in developing innovative 
-                solutions. My expertise lies in full-stack
-                development, and project management, and I 
-                am always eager to learn
-                new technologies and improve my skills.<br>
+Hi, I’m Oladepo Abdulbaki Opeyemi. In my career, I've always had a strong curiosity for solving all kinds of problems through technology. This passion led me to study Software Engineering, followed by trying out roles in both frontend and backend development. However, I fell in love with both, which makes me a full-stack engineer.
+I’m a junior software engineer with hands-on experience in full-stack development and a passion for using technology to solve real-world infrastructure challenges. 
+
+I had worked on the development of an Optical Mark Reader software that helped teachers mark numerous optional answer sheets, saving time and energy with the delivery of an accurate result. I had also created a relational database for my university to manage the database of the students residing in the school dorm. Using FIGMA, MySQL, and C#.
+
+I am currently working on the creation of a responsive Airbnb website. In addition, I am also learning the integration of AI tools into full-stack development for efficiency and accuracy. Using FIGMA, HTML, CSS, Typescript, React, Python, NodeJS, and MySQL. 
+
+You can connect with me at abdoladepo@gmail.com.<br>
 
 
 ## 🌐 Socials:
