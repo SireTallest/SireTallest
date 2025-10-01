@@ -10,7 +10,7 @@ You can connect with me at abdoladepo@gmail.com.<br>
 
 
 ## 🌐 Socials:
-[![Facebook](https://facebook.com/Oladepo Abdulbaki Opeyemi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sire_tallest_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sire_tallest) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sire_tallest_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sire_tallest) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoladepo@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/OladepoAbdulbakiOpeyemi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbaki-oladepo-4998b6213/)
@@ -22,6 +22,7 @@ You can connect with me at abdoladepo@gmail.com.<br>
 ![APIs](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
 # 📊 GitHub Stats:
