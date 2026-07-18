@@ -1,10 +1,10 @@
 # 💫 About Me:
-Hi, I’m Oladepo Abdulbaki Opeyemi. In my career, I've always had a strong curiosity for solving all kinds of problems through technology. This passion led me to study Software Engineering, followed by trying out roles in both frontend and backend development. However, I fell in love with frontend development. Due to the deeper understanding of ##architectural design, human computer interraction and software development life cycle##  I had obtained during my undergraduate studies and professional training, I can proudly call myself a ##FrontEnd Engineer##. 
-I do not just write code, but also understand the users' experience and the engineering that comes behind working to ensure a better UX. I've got a passion for using technology to solve real-world infrastructure challenges. 
+Hi, I’m Oladepo Abdulbaki Opeyemi. In my career, I've always had a strong curiosity for solving all kinds of problems through technology. This passion led me to study Software Engineering, followed by trying out roles in both frontend and backend development. However, I fell in love with frontend development. Due to the deeper understanding of ##architectural design, human-computer interaction, and the software development life cycle## that I gained during my undergraduate studies and professional training, I can proudly call myself a ##Front-End Engineer##. 
+I write code and also understand the users' experience and the engineering that comes behind working to ensure a better UX. I've got a passion for using technology to solve real-world infrastructure challenges. 
 
-# Zihntech Academy
+## Zihntech Academy
 I founded an online tech school dedicated to teaching and instilling the knowledge of frontend web development, for now, into the upcoming generation. Our goal is to teach and mentor tech enthusiasts through our structured and standardized program. 
-** You may search "Zihntech-Academy" on github to see what our learners are building. Feel free to reach out to us on # zihntech@gmail.com **
+_**You may search "Zihntech-Academy" on github to see what our learners are building. Feel free to reach out to us on # zihntech@gmail.com**_
 
 - I have experience in the **FINTECH** workspace, where I served as a **Frontend Engineer**. Before that were my days as an intern and also a frontend developer volunteer for some organisations. Feel free to explore my GitHub repos to have a better view of what I have done and can come up with, using my technical skills.
 - I had worked on the design and development, using FIGMA, HTML and CSS, on the user interface of the optical mark
@@ -30,6 +30,23 @@ You can connect with me at abdoladepo@gmail.com.<br>
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![AI Prompting](https://img.shields.io/badge/AI%20Prompting-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=gnubash&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Web Hosting](https://img.shields.io/badge/Web%20Hosting-121D33?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 
 # 📊 GitHub Stats:
