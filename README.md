@@ -1,9 +1,13 @@
 # 💫 About Me:
-Hi, I’m Oladepo Abdulbaki Opeyemi. In my career, I've always had a strong curiosity for solving all kinds of problems through technology. This passion led me to study Software Engineering, followed by trying out roles in both frontend and backend development. However, I fell in love with frontend development. Due to the deeper understanding of ##architectural design, human computer interraction and software development life cycle##  I had obtained during my undergraduate studies and professional trainings, I can produly call myself a ##FrontEnd Engineer##. 
-I do not just write code, but also understand the users' experience and the engineering that has to come behind working to ensure a better UX. I've got a passion for using technology to solve real-world infrastructure challenges. 
+Hi, I’m Oladepo Abdulbaki Opeyemi. In my career, I've always had a strong curiosity for solving all kinds of problems through technology. This passion led me to study Software Engineering, followed by trying out roles in both frontend and backend development. However, I fell in love with frontend development. Due to the deeper understanding of ##architectural design, human computer interraction and software development life cycle##  I had obtained during my undergraduate studies and professional training, I can proudly call myself a ##FrontEnd Engineer##. 
+I do not just write code, but also understand the users' experience and the engineering that comes behind working to ensure a better UX. I've got a passion for using technology to solve real-world infrastructure challenges. 
 
-- I have experience in the **FINTECH** workspace, where I served as a **Junior Frontend Engineer**. Before that were my days as an intern and also a frontend developer volunteer roles for some organisations. Feel free to explore my GitHub repos to have a better view of what I can come up with, using my technical skills.
-- I had worked on the design and development, using FIGMA, HTML and CSS, the user interface of the optical mark
+# Zihntech Academy
+I founded an online tech school dedicated to teaching and instilling the knowledge of frontend web development, for now, into the upcoming generation. Our goal is to teach and mentor tech enthusiasts through our structured and standardized program. 
+** You may search "Zihntech-Academy" on github to see what our learners are building. Feel free to reach out to us on # zihntech@gmail.com **
+
+- I have experience in the **FINTECH** workspace, where I served as a **Frontend Engineer**. Before that were my days as an intern and also a frontend developer volunteer for some organisations. Feel free to explore my GitHub repos to have a better view of what I have done and can come up with, using my technical skills.
+- I had worked on the design and development, using FIGMA, HTML and CSS, on the user interface of the optical mark
 reader software developed by my team during my internship as an undergraduate, which helped teachers mark numerous optional answer sheets, saving time and energy with the delivery of an accurate result.
 - I had also created a relational database for my university to manage the database of the students residing in the school dorm. Using FIGMA, MySQL, and C#.
 
